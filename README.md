@@ -8,6 +8,5 @@ Tenho 33, sou formada em Artes Cênicas (Licenciatura) pela USP e estudo Ciênci
 <br/> 📱  &nbsp; Olhar voltado para *mobile first*, SEO e acessibilidade
 
 ### Onde me encontrar:
-<br/> 
-<br/> [![Linkedin Badge](https://img.shields.io/badge/-MarinaXisto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrnxisto/)](https://www.linkedin.com/in/mrnxisto/) 
-<br/> [![Gmail Badge](https://img.shields.io/badge/-contatoxisto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatoxisto@gmail.com)](mailto:contatoxisto@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-MarinaXisto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrnxisto/)](https://www.linkedin.com/in/mrnxisto/) 
+[![Gmail Badge](https://img.shields.io/badge/-contatoxisto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatoxisto@gmail.com)](mailto:contatoxisto@gmail.com)
