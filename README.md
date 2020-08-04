@@ -7,7 +7,7 @@ Tenho 33, sou formada em Artes Cênicas (Licenciatura) pela USP e estudo Ciênci
 <br/> 📚 &nbsp; Front-end é meu foco e estudo para dominar HTML, CSS e JavaScript
 <br/> 📱  &nbsp; Olhar voltado para *mobile first*, SEO e acessibilidade
 
-<br/> ### Onde me encontrar:
+### Onde me encontrar:
 <br/> 
 <br/> [![Linkedin Badge](https://img.shields.io/badge/-MarinaXisto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrnxisto/)](https://www.linkedin.com/in/mrnxisto/) 
 <br/> [![Gmail Badge](https://img.shields.io/badge/-contatoxisto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatoxisto@gmail.com)](mailto:contatoxisto@gmail.com)
