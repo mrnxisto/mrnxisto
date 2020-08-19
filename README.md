@@ -11,7 +11,7 @@ Tenho 33, sou formada em Artes Cênicas (Licenciatura) pela USP e estudo Ciênci
 ### Mais sobre mim
 
 - [Behance](https://www.behance.net/mrnxisto)
-- [Twitter(https://twitter.com/mrnxisto)
+- [Twitter](https://twitter.com/mrnxisto)
 - [Instagram](https://instagram.com/mrnxisto)
 
 ### Contato
