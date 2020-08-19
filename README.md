@@ -4,9 +4,9 @@
 ### Pode me chamar apenas de Xisto 😉
 Tenho 33, sou formada em Artes Cênicas (Licenciatura) pela USP e estudo Ciência da Computação pela Universidade Cruzeiro do Sul. Nutro grande interesse pelo campo da tecnologia e resolvi mergulhar de vez nele. Além da graduação em andamento, agarro toda oportunidade de cursos livres e oficinas que ampliem meu conhecimento em desenvolvimento web, área que mais me interessa hoje.
 
-📚 Atualmente, foco em conceitos e ferramentas de front-end, UI e UX;
-👯 Profissionalmente, busco pessoas e espaços que me estimulem intelectualmente;
-💪 Pontualidade, colaboração e flexibilidade são meu forte!
+<br /> 📚 Atualmente, foco em conceitos e ferramentas de front-end, UI e UX;
+<br /> 👯 Profissionalmente, busco pessoas e espaços que me estimulem intelectualmente;
+<br /> 💪 Pontualidade, colaboração e flexibilidade são meu forte!
 
 ### Mais sobre mim
 
