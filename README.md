@@ -11,8 +11,7 @@ Tenho 33, sou formada em Artes Cênicas (Licenciatura) pela USP e estudo Ciênci
 ### Mais sobre mim
 
 - [Behance](https://www.behance.net/mrnxisto)
-- [Twitter](https://twitter.com/mrnxisto)
-- [Instagram](https://instagram.com/mrnxisto)
+- [Site](https://mrnxisto.github.io)
 
 ### Contato
 [![Linkedin Badge](https://img.shields.io/badge/-MarinaXisto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrnxisto/)](https://www.linkedin.com/in/mrnxisto/) 
